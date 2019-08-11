@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "0.0.1",
+  "description": "API Express, available for React JS and React Native.",
+  "main": "server.js",
+  "repository": "https://github.com/melquiadesmario/omnistack-instagram.git",
+  "author": "Melquíades Mário",
+  "license": "MIT"
+}
